@@ -15,7 +15,7 @@
     "classnames": "^2.2.6",
     "dva": "^2.4.1",
     "eslint-plugin-react": "^7.16.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-sortable": "^2.0.0",
